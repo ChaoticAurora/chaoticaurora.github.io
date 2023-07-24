@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Portfolio</title>
-    <link>/</link>
-    <description>Recent content on Portfolio</description>
+    <title>Full Game Projects on Portfolio</title>
+    <link>/categories/full-game-projects/</link>
+    <description>Recent content in Full Game Projects on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jul 2023 18:53:33 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 24 Jul 2023 18:53:33 +0200</lastBuildDate><atom:link href="/categories/full-game-projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Golf Rush</title>
       <link>/posts/golfrush/</link>
