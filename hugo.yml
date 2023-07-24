@@ -15,7 +15,7 @@ params:
 
   cover:
     linkFullImages: true
-
+  
   showReadingTime: true
 
 
@@ -27,5 +27,5 @@ menu:
       weight: 10
     - identifier: projects
       name: Projects
-      url: /categories/projects/
+      url: /categories/full-game-projects/
       weight: 20

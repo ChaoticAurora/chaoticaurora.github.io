@@ -11,7 +11,7 @@
 <meta name="description" content="">
 <meta name="author" content="">
 <link rel="canonical" href="/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.bf5f9f73cf17311d52cedbcda82c922e91b2f566d88a85ad9f5b5a08b586bd5f.css" integrity="sha256-v1&#43;fc88XMR1SztvNqCySLpGy9WbYioWtn1taCLWGvV8=" rel="preload stylesheet" as="style">
+<link crossorigin="anonymous" href="/assets/css/stylesheet.4c6d9032973218955c8ae4b1225c2014ff560bebb52966be0aedd12c62fca8ac.css" integrity="sha256-TG2QMpcyGJVciuSxIlwgFP9WC&#43;u1KWa&#43;Cu3RLGL8qKw=" rel="preload stylesheet" as="style">
 <link rel="icon" href="favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
 <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
@@ -56,7 +56,7 @@
         }
 
     </style>
-</noscript><meta property="og:title" content="Portfolio" />
+</noscript><link rel="stylesheet" href="/Css/CustomCss.css"><meta property="og:title" content="Portfolio" />
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="/" />
@@ -122,26 +122,32 @@
         <ul id="menu">
             <li>
                 <a href="/categories/" title="Categories">
-                    <span>Categories</span>
+                    <div class="button">
+                        <span>Categories</span>
+                    </div>
                 </a>
             </li>
             <li>
-                <a href="/categories/projects/" title="Projects">
-                    <span>Projects</span>
+                <a href="/categories/full-game-projects/" title="Projects">
+                    <div class="button">
+                        <span>Projects</span>
+                    </div>
                 </a>
             </li>
         </ul>
     </nav>
 </header>
 <main class="main"> 
-<article class="first-entry home-info">
+<article class="first-entry home-info dotted-outline">
     <header class="entry-header">
         <h1>Boris&rsquo; Portfolio</h1>
     </header>
-    <div class="entry-content">
-        Welcome to my portfolio! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    <div style = "align-items: center;">
+        <div class="entry-content ProfileDescriber">
+            Welcome to my portfolio! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </div>
+        <img class="HomeProfileIcon entry-content" src="/Images/Profile/ProfilePicAIEdited.png">
     </div>
-    <img class="entry-content" src="/static/Images/Profile/ProfilePicAIEdited.png" width="500" height="600">
     <footer class="entry-footer">
         <div class="social-icons">
     <a href="https://github.com/Borribakbeer" target="_blank" rel="noopener noreferrer me" title="Github">
@@ -157,7 +163,7 @@
     </footer>
 </article>
 
-<article class="post-entry"> 
+<article class="post-entry listedPost"> 
   <header class="entry-header">
     <h2>Golf Rush
     </h2>
