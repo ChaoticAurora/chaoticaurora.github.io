@@ -35,12 +35,3 @@
 .listedPost:active{
     transform: scale(0.9);
 }
-
-/* NAVBAR */
-.button{
-    transition: 0.15s all ease-in-out;
-    background-color: var(--secondary);
-}
-.button:hover{
-    background-color: var(--tertiary);
-}

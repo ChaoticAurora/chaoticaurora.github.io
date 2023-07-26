@@ -23,7 +23,7 @@
     outline-width: 3px;
 }
 
-#Posts
+/* Posts */
 .listedPost{
     transition: 0.15s all ease-in-out;
 }
@@ -34,14 +34,4 @@
 
 .listedPost:active{
     transform: scale(0.9);
-}
-
-#Navbar
-.button{
-    transition: 0.15s all ease-in-out;
-    background-color: var(--secondary);
-    height: 5vw;
-}
-.button:hover{
-    background-color: var(--tertiary);
 }
