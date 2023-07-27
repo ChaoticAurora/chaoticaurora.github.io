@@ -8,22 +8,21 @@
     <language>en-us</language>
     <lastBuildDate>Mon, 24 Jul 2023 18:53:33 +0200</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Golf Rush</title>
+      <link>/posts/projects/golfrush/</link>
+      <pubDate>Mon, 24 Jul 2023 18:53:33 +0200</pubDate>
+      
+      <guid>/posts/projects/golfrush/</guid>
+      <description>A golf game i made with my friend</description>
+    </item>
+    
+    <item>
       <title>D&amp;D Renders</title>
       <link>/posts/personal/dndrenders/</link>
       <pubDate>Mon, 24 Jul 2023 18:53:33 +0200</pubDate>
       
       <guid>/posts/personal/dndrenders/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>Golf Rush</title>
-      <link>/posts/projects/golfrush/</link>
-      <pubDate>Mon, 24 Jul 2023 18:53:33 +0200</pubDate>
-      
-      <guid>/posts/projects/golfrush/</guid>
-      <description>A golf game i made with my friend
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
     <item>
