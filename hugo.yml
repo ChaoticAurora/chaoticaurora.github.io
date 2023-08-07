@@ -18,6 +18,7 @@ params:
       url: "https://trello.com"
 
   cover:
+    hidden: false
     linkFullImages: true
   showBreadCrumbs: true
   showReadingTime: true
