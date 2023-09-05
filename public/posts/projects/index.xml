@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Big Projects on Portfolio</title>
+    <link>/posts/projects/</link>
+    <description>Recent content in Big Projects on Portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 24 Jul 2023 18:53:33 +0200</lastBuildDate><atom:link href="/posts/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Golf Rush</title>
+      <link>/posts/projects/golfrush/</link>
+      <pubDate>Mon, 24 Jul 2023 18:53:33 +0200</pubDate>
+      
+      <guid>/posts/projects/golfrush/</guid>
+      <description>A golf game i made with my friend</description>
+    </item>
+    
+  </channel>
+</rss>

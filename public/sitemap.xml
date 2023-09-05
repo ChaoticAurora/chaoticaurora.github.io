@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>/posts/projects/</loc>
+    <lastmod>2023-07-24T18:53:33+02:00</lastmod>
+  </url><url>
     <loc>/posts/projects/golfrush/</loc>
     <lastmod>2023-07-24T18:53:33+02:00</lastmod>
   </url><url>
@@ -15,6 +18,9 @@
     <lastmod>2023-07-24T18:53:33+02:00</lastmod>
   </url><url>
     <loc>/categories/personal-projects/</loc>
+    <lastmod>2023-07-24T18:53:33+02:00</lastmod>
+  </url><url>
+    <loc>/posts/personal/</loc>
     <lastmod>2023-07-24T18:53:33+02:00</lastmod>
   </url><url>
     <loc>/</loc>
