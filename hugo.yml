@@ -1,7 +1,7 @@
 baseURL: ''
 languageCode: en-us
 title: Portfolio
-theme: PaperMod
+theme: CustomizedPaperMod
 
 
 params:
@@ -10,6 +10,8 @@ params:
   homeInfoParams: 
     Title: "Boris' Portfolio"
     Content: Welcome to my portfolio! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    AboutMeName: "About me"
+    AboutMeLink: /aboutme
     Img: '/Images/Profile/ProfilePicAIEdited.png'
   socialIcons:
     - name: github
@@ -32,9 +34,9 @@ menu:
       weight: 10
     - identifier: projects
       name: Projects
-      url: /categories/full-game-projects/
+      url: /posts/projects/
       weight: 20
     - identifier: personal
       name: Personal
-      url: /categories/personal-projects
+      url: /posts/personal/
       weight: 30

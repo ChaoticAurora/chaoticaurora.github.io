@@ -15,7 +15,7 @@
 
 .post-meta,
 .breadcrumbs {
-    color: var(--secondary);
+    color: var(--text-secondary);
     font-size: 14px;
     display: flex;
     flex-wrap: wrap;
@@ -33,7 +33,7 @@
 }
 
 .post-content {
-    color: var(--content);
+    color: var(--text-secondary);
 }
 
 .post-content h3,
