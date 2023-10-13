@@ -1,3 +1,11 @@
+.post-container{
+    display: grid;
+    grid-template-columns: 47.5% 47.5%;
+    grid-gap: 5%;
+
+    width: 100%
+}
+
 .first-entry {
     position: relative;
     display: flex;
@@ -41,6 +49,10 @@
     border-radius: var(--radius);
     transition: transform 0.1s;
     border: 1px solid var(--border);
+}
+
+.post-entry:hover{
+    border: 1px solid var(--border-selected);
 }
 
 .post-entry:active {

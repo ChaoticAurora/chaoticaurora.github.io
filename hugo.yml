@@ -16,8 +16,10 @@ params:
   socialIcons:
     - name: github
       url: "https://github.com/Borribakbeer"
-    - name: trello
-      url: "https://trello.com"
+    - name: instagram
+      url: "https://www.instagram.com/chaoticaurora/"
+    - name: itchio
+      url: "https://chaoticaurora.itch.io/"
 
   cover:
     hidden: false
