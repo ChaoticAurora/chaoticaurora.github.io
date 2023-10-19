@@ -2,6 +2,9 @@
 title: "Shader Expiriments"
 date: 2023-07-24T18:53:33+02:00
 draft: false
+cover:
+    image: "Images/TEMP.png"
+    alt: "TK"
 categories: ["Personal Projects"]
 ---
 

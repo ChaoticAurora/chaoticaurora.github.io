@@ -14,9 +14,13 @@
 {{- end -}}
 " id="top">
     {{- partialCached "header.html" . .Page -}}
-    <main class="main">
-        {{- block "main" . }}{{ end }}
-    </main>
+    <div class="page-content">
+        <div class ="sideblock leftside"></div>
+        <main class="main">
+            {{- block "main" . }}{{ end }}
+        </main>
+        <div class = "sideblock rightside"></div>
+    </div>
     {{ partialCached "footer.html" . .Layout .Kind (.Param "hideFooter") (.Param "ShowCodeCopyButtons") -}}
 </body>
 

@@ -6,6 +6,19 @@
     padding: var(--gap);
 }
 
+.sideblock{
+    max-width: calc(100vw - var(--main-width) + var(--gap) * 2);
+    min-height: 100vh;
+}
+.rightside{
+    float:right;
+    background-color: green;
+}
+.leftside{
+    float:left;
+    background-color: green;
+}
+
 .page-header h1 {
     font-size: 40px;
 }
