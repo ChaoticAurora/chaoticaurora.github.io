@@ -15,11 +15,12 @@
 }
 .rightside{
     right:0;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-image: linear-gradient(to left, var(--tertiary), var(--theme));
 }
 .leftside{
     left:0;
-    background-color: rgba(0, 0, 0, 0.2);
+    background-image: linear-gradient(to right, var(--tertiary), var(--theme));
+
 }
 
 .page-header h1 {
