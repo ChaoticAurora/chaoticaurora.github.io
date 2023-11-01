@@ -34,11 +34,16 @@ menu:
       name: Home
       url: /
       weight: 10
-    - identifier: projects
-      name: Projects
-      url: /posts/projects/
+    - identifier: team
+      name: Team Projects
+      url: /posts/team/
       weight: 20
     - identifier: personal
-      name: Personal
+      name: Personal Projects
       url: /posts/personal/
       weight: 30
+    - identifier: experiment
+      name: Experiments
+      url: /posts/experiments/
+      weight: 40
+    

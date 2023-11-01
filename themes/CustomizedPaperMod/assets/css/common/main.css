@@ -7,16 +7,19 @@
 }
 
 .sideblock{
-    max-width: calc(100vw - var(--main-width) + var(--gap) * 2);
-    min-height: 100vh;
+    position: fixed;
+    top: 0;
+    z-index: -10;
+    width: calc((100vw - (var(--main-width) + var(--gap) * 2))/2);
+    height: 100vh;
 }
 .rightside{
-    float:right;
-    background-color: green;
+    right:0;
+    background-color: rgba(0, 0, 0, 0.2);
 }
 .leftside{
-    float:left;
-    background-color: green;
+    left:0;
+    background-color: rgba(0, 0, 0, 0.2);
 }
 
 .page-header h1 {
