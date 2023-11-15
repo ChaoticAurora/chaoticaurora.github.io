@@ -5,7 +5,7 @@ draft: false
 categories: ["Personal Projects"]
 cover:
 cover:
-    image: "Images/TEMP.png"
+    image: "images/personal/box.png"
     alt: "TK"
 ShowToc: true
 TocOpen: true
