@@ -46,4 +46,6 @@ menu:
       name: Experiments
       url: /posts/experiments/
       weight: 40
+
+paginate: 9
     

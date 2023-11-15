@@ -4,8 +4,9 @@ date: 2023-07-24T18:53:33+02:00
 draft: false
 categories: ["Personal Projects"]
 cover:
-    image: "Images/Personal/dndRenders.png"
+    image: "images/personal/dndRenders.png"
     alt: "A collection of renders used for D&D"
+summary: A collection of renders I made in blender to support a D&D campaign i wrote.
 ShowToc: true
 TocOpen: true
 ---

@@ -1,6 +1,6 @@
 .post-container{
     display: grid;
-    grid-template-columns: 48.75% 48.75%;
+    grid-template-columns: 31.583% 31.583% 31.583%;
     grid-gap: 2.5%;
 
     width: 100%

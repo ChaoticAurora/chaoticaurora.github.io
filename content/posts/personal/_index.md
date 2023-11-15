@@ -3,7 +3,7 @@ title: "Personal Projects"
 date: 2023-07-24T18:53:33+02:00
 draft: false
 cover:
-    image: "Images/Personal/dndRenders.png"
+    image: "images/personal/dndRenders.png"
     alt: "A collection of renders used for D&D"
 summary: Some smaller personal projects i have worked on
 ---

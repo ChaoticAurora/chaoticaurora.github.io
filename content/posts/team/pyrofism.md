@@ -5,7 +5,7 @@ draft: false
 categories: ["Team Projects"]
 cover:
 cover:
-    image: "Images/TEMP.png"
+    image: "images/TEMP.png"
     alt: "TK"
 ShowToc: true
 TocOpen: true

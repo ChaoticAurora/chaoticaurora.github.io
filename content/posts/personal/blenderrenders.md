@@ -4,9 +4,9 @@ date: 2023-07-24T18:53:33+02:00
 draft: false
 categories: ["Personal Projects"]
 cover:
-cover:
-    image: "Images/TEMP.png"
-    alt: "TK"
+    image: "images/personal/blenderRenders.png"
+    alt: "A collection of images i made in blender"
+summary: A Collections of renders that I made and rendered in Blender. Some where part of a weekly challenge and others where for fun.
 ShowToc: true
 TocOpen: true
 ---

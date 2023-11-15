@@ -4,9 +4,9 @@ date: 2023-07-24T18:53:33+02:00
 draft: false
 categories: ["Full Game Projects"]
 cover:
-    image: "Images/Projects/golfrush.png"
+    image: "images/projects/golfrush.png"
     alt: "A gameplay image of Golf Rush"
-summary: A golf game i made with my friend
+summary: A golf game i made with my friend. I mostly focused on art but I have also done some programming & design.
 weight: -1
 ---
 

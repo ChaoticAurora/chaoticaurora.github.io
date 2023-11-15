@@ -4,8 +4,9 @@ date: 2023-07-24T18:53:33+02:00
 draft: false
 categories: ["Experiments"]
 cover:
-    image: "Images/TEMP.png"
-    alt: "TK"
+    image: "images/experiments/postprocess.png"
+    alt: "Two post process images i created. One outline and one speedvignette effect"
+summary: A collection of some full screen shaders I made to improve the look of a game.
 ShowToc: true
 TocOpen: true
 ---

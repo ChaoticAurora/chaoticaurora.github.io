@@ -1,11 +1,11 @@
 ---
 title: "Tube Model"
 date: 2023-07-24T18:53:33+02:00
-draft: false
+draft: true
 categories: ["Personal Projects"]
 cover:
 cover:
-    image: "Images/TEMP.png"
+    image: "images/TEMP.png"
     alt: "TK"
 ShowToc: true
 TocOpen: true
