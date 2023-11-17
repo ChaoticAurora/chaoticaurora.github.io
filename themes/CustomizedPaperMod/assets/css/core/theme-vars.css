@@ -1,8 +1,9 @@
 :root {
     --gap: 24px;
     --content-gap: 20px;
-    --nav-width: 90vw;
-    --main-width: 75vw;
+    --nav-width: 100vw;
+    --main-width: 85vw;
+    
     --header-height: 40px;
     --footer-height: 60px;
     --radius: 10px;

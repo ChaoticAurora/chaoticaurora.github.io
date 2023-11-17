@@ -1,12 +1,12 @@
 ---
 title: "Metis GameJam"
-date: 2023-07-24T18:53:33+02:00
 draft: false
 categories: ["Team Projects"]
 cover:
 cover:
-    image: "images/TEMP.png"
-    alt: "TK"
+    image: "images/projects/metisjam.png"
+    alt: "A screenshot from the game i made in 8 hours"
+summary: A game I made in ~8 hours for an in person game jam in a team ranging ages 13-17.
 ShowToc: true
 TocOpen: true
 ---

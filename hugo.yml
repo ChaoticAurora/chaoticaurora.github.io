@@ -9,10 +9,10 @@ params:
 
   homeInfoParams: 
     Title: "Boris' Portfolio"
-    Content: Welcome to my portfolio! Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+    Content: Welcome to my portfolio! Here I have posted a part of my gamedev journey. I have worked on various projects that are split up into 
     AboutMeName: "About me"
     AboutMeLink: /aboutme
-    Img: '/Images/Profile/ProfilePicAIEdited.png'
+    Img: '/images/profile/ProfilePicAIEdited.png'
   socialIcons:
     - name: github
       url: "https://github.com/Borribakbeer"
@@ -24,8 +24,7 @@ params:
   cover:
     hidden: false
     linkFullImages: true
-  showBreadCrumbs: true
-  showReadingTime: true
+
 
 
 menu:
@@ -47,5 +46,5 @@ menu:
       url: /posts/experiments/
       weight: 40
 
-paginate: 9
+paginate: 6
     

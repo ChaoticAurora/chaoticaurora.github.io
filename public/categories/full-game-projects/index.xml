@@ -5,15 +5,23 @@
     <link>/categories/full-game-projects/</link>
     <description>Recent content in Full Game Projects on Portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 24 Jul 2023 18:53:33 +0200</lastBuildDate><atom:link href="/categories/full-game-projects/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="/categories/full-game-projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Golf Rush</title>
-      <link>/posts/projects/golfrush/</link>
-      <pubDate>Mon, 24 Jul 2023 18:53:33 +0200</pubDate>
+      <link>/posts/team/golfrush/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/projects/golfrush/</guid>
-      <description>A golf game i made with my friend</description>
+      <guid>/posts/team/golfrush/</guid>
+      <description>A golf game i made with my friend. I mostly focused on art but I have also done some programming &amp;amp; design.</description>
+    </item>
+    
+    <item>
+      <title>Game Jams</title>
+      <link>/posts/team/gamejams/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/team/gamejams/</guid>
+      <description>A collection of games I made for various game jams. Mostly 2d but some 3d games.</description>
     </item>
     
   </channel>

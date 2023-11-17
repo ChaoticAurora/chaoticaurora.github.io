@@ -1,12 +1,11 @@
 ---
 title: "Game Jams"
-date: 2023-07-24T18:53:33+02:00
 draft: false
 categories: ["Full Game Projects"]
 cover:
-    image: "images/TEMP.png"
-    alt: "TK"
-summary: A collection of games I made for various game jams.
+    image: "images/projects/gamejams.png"
+    alt: "A collection of games I made for various game jams."
+summary: A collection of games I made for various game jams. Mostly 2d but some 3d games.  
 weight: 0
 ---
 
