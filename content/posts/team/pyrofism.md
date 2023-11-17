@@ -1,12 +1,12 @@
 ---
 title: "Pyrofism"
-date: 2023-07-24T18:53:33+02:00
 draft: false
 categories: ["Team Projects"]
 cover:
 cover:
-    image: "images/TEMP.png"
-    alt: "TK"
+    image: "images/projects/pyrofism.png"
+    alt: "A gameplay image from pyrofism"
+summary: Pyrofism was the first game I published and was made for a week long gamejam.
 ShowToc: true
 TocOpen: true
 ---

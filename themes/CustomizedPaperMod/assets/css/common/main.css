@@ -83,3 +83,9 @@ div.highlight:hover .copy-code,
 pre:hover .copy-code {
     display: block;
 }
+
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+}

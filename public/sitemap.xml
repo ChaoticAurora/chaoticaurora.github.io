@@ -2,36 +2,50 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/posts/projects/</loc>
-    <lastmod>2023-07-24T18:53:33+02:00</lastmod>
+    <loc>/posts/team/</loc>
   </url><url>
-    <loc>/posts/projects/golfrush/</loc>
-    <lastmod>2023-07-24T18:53:33+02:00</lastmod>
+    <loc>/posts/team/golfrush/</loc>
+  </url><url>
+    <loc>/posts/personal/cartonbox/</loc>
+  </url><url>
+    <loc>/posts/experiments/postprocess/</loc>
+  </url><url>
+    <loc>/posts/personal/blenderrenders/</loc>
+  </url><url>
+    <loc>/posts/experiments/wigglypath/</loc>
   </url><url>
     <loc>/categories/</loc>
-    <lastmod>2023-07-24T18:53:33+02:00</lastmod>
   </url><url>
     <loc>/posts/personal/dndrenders/</loc>
-    <lastmod>2023-07-24T18:53:33+02:00</lastmod>
+  </url><url>
+    <loc>/categories/experiments/</loc>
+  </url><url>
+    <loc>/posts/experiments/</loc>
   </url><url>
     <loc>/categories/full-game-projects/</loc>
-    <lastmod>2023-07-24T18:53:33+02:00</lastmod>
+  </url><url>
+    <loc>/posts/team/gamejams/</loc>
+  </url><url>
+    <loc>/tags/game-projects/</loc>
+  </url><url>
+    <loc>/posts/team/metis-gamejam/</loc>
   </url><url>
     <loc>/categories/personal-projects/</loc>
-    <lastmod>2023-07-24T18:53:33+02:00</lastmod>
   </url><url>
     <loc>/posts/personal/</loc>
-    <lastmod>2023-07-24T18:53:33+02:00</lastmod>
   </url><url>
     <loc>/</loc>
-    <lastmod>2023-07-24T18:53:33+02:00</lastmod>
   </url><url>
     <loc>/posts/</loc>
-    <lastmod>2023-07-24T18:53:33+02:00</lastmod>
   </url><url>
-    <loc>/posts/personal/shaderexperiments/</loc>
-    <lastmod>2023-07-24T18:53:33+02:00</lastmod>
+    <loc>/posts/team/pyrofism/</loc>
+  </url><url>
+    <loc>/posts/experiments/raymarching/</loc>
   </url><url>
     <loc>/tags/</loc>
+  </url><url>
+    <loc>/categories/team-projects/</loc>
+  </url><url>
+    <loc>/posts/experiments/toonshading/</loc>
   </url>
 </urlset>
