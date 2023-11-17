@@ -1,7 +1,6 @@
 .post-container{
     display: grid;
-    grid-template-columns: 31.583% 31.583% 31.583%;
-    grid-gap: 2.5%;
+    grid-template-columns: repeat(3, 33.3333333333%);
 
     width: 100%
 }
@@ -50,6 +49,7 @@
 .post-entry {
     position: relative;
     /*margin-bottom: var(--gap);*/
+    margin: calc(var(--gap)/2);
     padding: var(--gap);
     background: var(--entry);
     border-radius: var(--radius);

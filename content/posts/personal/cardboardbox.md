@@ -1,5 +1,5 @@
 ---
-title: "Carton Box Model"
+title: "Cardboard Box Model"
 draft: false
 categories: ["Personal Projects"]
 cover:

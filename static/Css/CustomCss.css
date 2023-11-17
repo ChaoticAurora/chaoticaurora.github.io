@@ -1,15 +1,19 @@
-/*TODO: This script builds wrong for github pages*/
-
 /*Home profile info*/
-.HomeProfileIcon{
+.HomeProfileIcon-container{
     border-radius: var(--radius);
     width: 25%;
-    float: right;
     box-shadow: 0px 0px 8px var(--primary);
+    margin-left: var(--gap);
+    overflow: hidden;
+    display: inline-block;
+}
+
+.HomeProfileIcon {
+    object-fit: cover;
     transition: 0.5s transform ease-in-out;
 }
-.HomeProfileIcon:hover{
-    transform: scale(1.02);
+.HomeProfileIcon:hover {
+    transform: scale(1.05);
 }
 
 .ProfileDescriber{

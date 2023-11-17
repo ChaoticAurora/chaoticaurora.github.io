@@ -7,7 +7,7 @@
         <div class="entry-content ProfileDescriber">
             {{ .Content | markdownify }}
         </div>
-        <img class="HomeProfileIcon" src="{{ .Img | markdownify }}">
+        <div class="HomeProfileIcon-container"> <img class="HomeProfileIcon" src="{{ .Img | markdownify }}"> </div>
     </div>
     <footer class="entry-footer">
         {{ partial "social_icons.html" site.Params.socialIcons }}
