@@ -10,8 +10,8 @@
 <meta name="description" content="I made this model with performance in mind. It&rsquo;s purpose is to look as realistic as possible with a minimal amount of vertices.">
 <meta name="author" content="">
 <link rel="canonical" href="/posts/personal/cardboardbox/">
-<link crossorigin="anonymous" href="/assets/css/stylesheet.8cf827b894670d4924b25677445a0759dc5c3c67dca16e37f019c57613822c34.css" integrity="sha256-jPgnuJRnDUkkslZ3RFoHWdxcPGfcoW438BnFdhOCLDQ=" rel="preload stylesheet" as="style">
-<script defer crossorigin="anonymous" src="/assets/js/highlight.acb54fd32bbc1982428b8850317e45d076b95012730a5936667e6bc21777692a.js" integrity="sha256-rLVP0yu8GYJCi4hQMX5F0Ha5UBJzClk2Zn5rwhd3aSo="
+<link crossorigin="anonymous" href="/assets/css/stylesheet.9b32b6e25913b8dce1f1cc52a7467ea0892050f747babac16d3a772e1a5e0e83.css" integrity="sha256-mzK24lkTuNzh8cxSp0Z&#43;oIkgUPdHurrBbTp3LhpeDoM=" rel="preload stylesheet" as="style">
+<script defer crossorigin="anonymous" src="/assets/js/highlight.f413e19d0714851f6474e7ee9632408e58ac146fbdbe62747134bea2fa3415e0.js" integrity="sha256-9BPhnQcUhR9kdOfuljJAjlisFG&#43;9vmJ0cTS&#43;ovo0FeA="
     onload="hljs.initHighlightingOnLoad();"></script>
 <link rel="icon" href="favicon.ico">
 <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
@@ -107,8 +107,8 @@
   "keywords": [
     
   ],
-  "articleBody": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.\n",
-  "wordCount" : "69",
+  "articleBody": "The idea This box was made by me because a friend was making a factory game in which boxes are produced. In this game there are a lot of boxes on the screen at once so it was important that the boxes are as optimized as possible. On top of this the boxes also needed to be made in a realistic style to fit the style of the game.\nSo the requirements are:\nOptimized mesh Realistic texture Highly detailed Process I started by making a high resolution mesh of a box. Making sure to model both the label and the lid of the box. For the tape i wanted to use a cloth simulation to get some nice creases and deformations in the mesh. I also added a small perlin noise displacement to the box to add some irregularities to the normals.\n[TODO] Add picture off high res mesh (+ wireframe)\nAfter that I baked the normals of the high resolution mesh onto a default blender cube mesh. By duplicating the normals and drawing over them in GIMP I was able to easily create a roughness map to make the plastic more reflective then the cardboard. For the texture I used an image of cardboard from the internet that I tiled seamlessly and added some small tweaks. I then darkened the parts with tape and added some small noise to the side of the lid.\n[TODO] Add pictures off helper textures\n",
+  "wordCount" : "241",
   "inLanguage": "en",
   "image":"images/personal/box.png","datePublished": "0001-01-01T00:00:00Z",
   "dateModified": "0001-01-01T00:00:00Z",
@@ -211,11 +211,24 @@
 </div>
   </header> 
 <figure class="entry-cover"><a href="images/personal/box.png" target="_blank"
-            rel="noopener noreferrer"><img id="cover-img" loading="lazy" src="images/personal/box.png" alt="A model of a box i made in blender"></a>
+            rel="noopener noreferrer"><img id="cover-img" loading="lazy" src="images/personal/box.png" alt="A model of a box I made in blender"></a>
         
 </figure>
-
-  <div class="post-content"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <div class="post-content"><h2 id="the-idea">The idea<a hidden class="anchor" aria-hidden="true" href="#the-idea">#</a></h2>
+<p>This box was made by me because a friend was making a factory game in which boxes are produced. In this game there are a lot of boxes on the screen at once so it was important that the boxes are as optimized as possible. On top of this the boxes also needed to be made in a realistic style to fit the style of the game.</p>
+<p>So the requirements are:</p>
+<ul>
+<li>Optimized mesh</li>
+<li>Realistic texture</li>
+<li>Highly detailed</li>
+</ul>
+<h2 id="process">Process<a hidden class="anchor" aria-hidden="true" href="#process">#</a></h2>
+<p>I started by making a high resolution mesh of a box. Making sure to model both the label and the lid of the box. For the tape i wanted to use a cloth simulation to get some nice creases and deformations in the mesh. I also added a small perlin noise displacement to the box to add some irregularities to the normals.</p>
+<p>[TODO] Add picture off high res mesh (+ wireframe)</p>
+<p>After that I baked the normals of the high resolution mesh onto a default blender cube mesh.
+By duplicating the normals and drawing over them in GIMP I was able to easily create a roughness map to make the plastic more reflective then the cardboard.
+For the texture I used an image of cardboard from the internet that I tiled seamlessly and added some small tweaks. I then darkened the parts with tape and added some small noise to the side of the lid.</p>
+<p>[TODO] Add pictures off helper textures</p>
 
 
   </div>
@@ -230,7 +243,7 @@
     </div>
     
 <footer class="footer">
-    <span>&copy; 2023 <a href="">Portfolio</a></span>
+    <span>&copy; 2024 <a href="">Portfolio</a></span>
     <span>
         Powered by
         <a href="https://gohugo.io/" rel="noopener noreferrer" target="_blank">Hugo</a> &

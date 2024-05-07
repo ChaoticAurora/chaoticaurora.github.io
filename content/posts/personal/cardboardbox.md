@@ -5,11 +5,28 @@ categories: ["Personal Projects"]
 cover:
 cover:
     image: "images/personal/box.png"
-    alt: "A model of a box i made in blender"
+    alt: "A model of a box I made in blender"
 summary: I made this model with performance in mind. It's purpose is to look as realistic as possible with a minimal amount of vertices.
-ShowToc: true
+ShowToc: false
 TocOpen: true
 weight: 5
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+## The idea
+This box was made by me because a friend was making a factory game in which boxes are produced. In this game there are a lot of boxes on the screen at once so it was important that the boxes are as optimized as possible. On top of this the boxes also needed to be made in a realistic style to fit the style of the game.
+
+So the requirements are:
+- Optimized mesh 
+- Realistic texture
+- Highly detailed
+
+## Process
+I started by making a high resolution mesh of a box. Making sure to model both the label and the lid of the box. For the tape i wanted to use a cloth simulation to get some nice creases and deformations in the mesh. I also added a small perlin noise displacement to the box to add some irregularities to the normals. 
+
+[TODO] Add picture off high res mesh (+ wireframe)
+
+After that I baked the normals of the high resolution mesh onto a default blender cube mesh. 
+By duplicating the normals and drawing over them in GIMP I was able to easily create a roughness map to make the plastic more reflective then the cardboard. 
+For the texture I used an image of cardboard from the internet that I tiled seamlessly and added some small tweaks. I then darkened the parts with tape and added some small noise to the side of the lid. 
+
+[TODO] Add pictures off helper textures 

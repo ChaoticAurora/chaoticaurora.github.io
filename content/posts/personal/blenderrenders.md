@@ -1,9 +1,9 @@
 ---
-title: "Blender Renders"
+title: "Magic Cauldron Render"
 draft: false
 categories: ["Personal Projects"]
 cover:
-    image: "images/personal/blenderRenders.png"
+    image: "images/personal/magicCauldronBlenderRender.gif"
     alt: "A collection of images i made in blender"
 summary: A Collections of renders that I made and rendered in Blender. Some where part of a weekly challenge and others where for fun.
 ShowToc: true
