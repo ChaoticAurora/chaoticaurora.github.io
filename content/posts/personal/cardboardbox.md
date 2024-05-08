@@ -3,7 +3,6 @@ title: "Cardboard Box Model"
 draft: false
 categories: ["Personal Projects"]
 cover:
-cover:
     image: "images/projects/cardboardBox/box.png"
     alt: "A model of a box I made in blender"
 summary: I made this model with performance in mind. It's purpose is to look as realistic as possible with a minimal amount of vertices.
