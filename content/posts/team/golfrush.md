@@ -31,7 +31,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. EN DUS IS HET HEEL ERG COOL 
 {{< inTextImg url="/images/personal/vendingmachine.png" height=100 alt="A Vendingmachine i made">}}
 
-{{< inTextImg url="/images/personal/vendingmachine.png" height=100 alt="A Vendingmachine i made">}}
+{{< inTextImg url="images/personal/vendingmachine.png" height=100 alt="A Vendingmachine i made">}}
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor 
 
 {{< collapse summary="Check some FACTS">}} THE FACTS ARE AS FOLLOWS
