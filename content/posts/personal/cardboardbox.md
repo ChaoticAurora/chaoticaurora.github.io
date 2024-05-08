@@ -12,7 +12,7 @@ TocOpen: true
 weight: 5
 ---
 
-## The idea
+# The idea
 This box was made by me because a friend was making a factory game in which boxes are produced. In this game there are a lot of boxes on the screen at once so it was important that the boxes are as optimized as possible. On top of this the boxes also needed to be made in a realistic style to fit the style of the game.
 
 So the requirements are:
@@ -20,7 +20,7 @@ So the requirements are:
 - Realistic texture
 - Highly detailed
 
-## Process
+# Process
 I started by making a high resolution mesh of a box. Making sure to model both the label and the lid of the box. For the tape i wanted to use a cloth simulation to get some nice creases and deformations in the mesh. I also added a small perlin noise displacement to the box to add some irregularities to the normals. 
 
 [TODO] Add picture off high res mesh (+ wireframe)
