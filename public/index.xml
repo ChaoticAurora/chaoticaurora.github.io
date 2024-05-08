@@ -35,11 +35,11 @@
     
     <item>
       <title>Magic Cauldron Render</title>
-      <link>/posts/personal/blenderrenders/</link>
+      <link>/posts/personal/cauldronrender/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/personal/blenderrenders/</guid>
-      <description>A Collections of renders that I made and rendered in Blender. Some where part of a weekly challenge and others where for fun.</description>
+      <guid>/posts/personal/cauldronrender/</guid>
+      <description>A Magic Cauldron I made with the theme: Magic.</description>
     </item>
     
     <item>
@@ -94,6 +94,15 @@
       
       <guid>/posts/experiments/raymarching/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+    </item>
+    
+    <item>
+      <title>Stylized Vendingmachine</title>
+      <link>/posts/personal/vendingmachinerender/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/personal/vendingmachinerender/</guid>
+      <description>A stylized vending machine I made using blender&amp;rsquo;s grease pencil</description>
     </item>
     
     <item>

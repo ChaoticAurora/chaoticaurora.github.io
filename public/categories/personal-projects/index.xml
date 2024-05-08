@@ -17,11 +17,11 @@
     
     <item>
       <title>Magic Cauldron Render</title>
-      <link>/posts/personal/blenderrenders/</link>
+      <link>/posts/personal/cauldronrender/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/posts/personal/blenderrenders/</guid>
-      <description>A Collections of renders that I made and rendered in Blender. Some where part of a weekly challenge and others where for fun.</description>
+      <guid>/posts/personal/cauldronrender/</guid>
+      <description>A Magic Cauldron I made with the theme: Magic.</description>
     </item>
     
     <item>
@@ -31,6 +31,15 @@
       
       <guid>/posts/personal/dndrenders/</guid>
       <description>A collection of renders I made in blender to support a D&amp;amp;D campaign i wrote.</description>
+    </item>
+    
+    <item>
+      <title>Stylized Vendingmachine</title>
+      <link>/posts/personal/vendingmachinerender/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/personal/vendingmachinerender/</guid>
+      <description>A stylized vending machine I made using blender&amp;rsquo;s grease pencil</description>
     </item>
     
   </channel>
