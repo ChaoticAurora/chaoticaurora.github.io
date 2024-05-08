@@ -233,12 +233,12 @@
     margin: 1rem 0;
 }
 
-.post-content img[src*="#center"] {
+.post-content img.align-center {
     margin: 1rem auto;
 }
 
 
-.post-content img[src*="#right"] {
+.post-content img.align-right {
     margin: 1rem calc(100vw - 50rem);
 }
 
