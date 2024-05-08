@@ -15,7 +15,7 @@
 .HomeProfileIcon:hover {
     transform: scale(1.05);
 }
-
+ 
 .ProfileDescriber{
     float: left;
     width: 70%;
