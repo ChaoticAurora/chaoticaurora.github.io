@@ -237,8 +237,22 @@
     margin: 1rem auto;
 }
 
+
+.post-content img[src*="#right"] {
+    margin: 1rem calc(100vw - 50rem);
+}
+
+
 .post-content figure.align-center {
     text-align: center;
+}
+
+.post-content figure.align-left {
+    text-align: left;
+}
+
+.post-content figure.align-right {
+    text-align: right;
 }
 
 .post-content figure > figcaption {
