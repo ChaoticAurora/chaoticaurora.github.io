@@ -12,7 +12,7 @@ params:
     Content: Welcome to my portfolio! Here I have posted a part of my gamedev journey. I have worked on various projects that are split up into 
     AboutMeName: "About me"
     AboutMeLink: /aboutme
-    Img: '/images/profile/ProfilePicAIEdited.png'
+    Img: 'images/profile/ProfilePicAIEdited.png'
   socialIcons:
     - name: github
       url: "https://github.com/Borribakbeer"
