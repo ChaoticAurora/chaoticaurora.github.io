@@ -7,16 +7,21 @@
     --header-height: 40px;
     --footer-height: 60px;
     --radius: 10px;
-    --theme: rgb(255, 205, 178);
-    --entry: rgb(255, 255, 255);
-    --primary: rgb(30, 30, 30);
-    --secondary: rgb(108, 108, 108);
-    --tertiary: rgb(214, 214, 214);
+    --theme: rgb(255, 178, 211);
+    --entry: rgb(220, 152, 201);
+    --primary: 	#8080ff;
+    --secondary: rgb(255, 178, 211);
+    --tertiary: rgb(233, 158, 212);
+    --text-primary: #004d99;
+    --text-secondary: #007399;
+    --text-tertiary: #0aa6a9;
     --dark: rgb(140, 140, 150);
     --content: rgb(31, 31, 31);
     --hljs-bg: rgb(28, 29, 33);
-    --code-bg: rgb(245, 245, 245);
-    --border: rgb(238, 238, 238);
+    --code-bg: rgb(249, 184, 227);
+    --border: #8a98fd;
+    --border-selected: #885fef;
+
 }
 
 .dark {
@@ -37,7 +42,7 @@
 }
 
 .list {
-    background: var(--code-bg);
+    background: var(--theme);
 }
 
 .dark.list {
