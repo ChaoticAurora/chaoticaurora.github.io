@@ -22,4 +22,4 @@ The outline is also decreased in effect based on distance. This means that faraw
 
 # Speedline Shader
 To convey Speed I tried to make a screenspace shader that adds a vignette of speedlines that flash in random positions.
-This effect was inspired by the anime style to show speed. Eventually I decided to use a particle system to convey speed instead because it fitted the style of [that game](/posts/team/golfrush/) better
+This effect was inspired by the anime style to show speed. Eventually I decided to use a particle system to convey speed instead because it fitted the style of [that game](/posts/team/golfrush/) better.
