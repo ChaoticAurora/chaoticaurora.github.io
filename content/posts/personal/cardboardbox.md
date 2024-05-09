@@ -20,7 +20,7 @@ So the requirements are:
 - Highly detailed
 
 # Process
-I started by making a high resolution mesh of a box. Making sure to model both the label and the lid of the box. For the tape i wanted to use a cloth simulation to get some nice creases and deformations in the mesh. I also added a small perlin noise displacement to the box to add some irregularities to the normals. 
+I started by making a high resolution mesh of a box. Making sure to model both the label and the lid of the box. For the tape I wanted to use a cloth simulation to get some nice creases and deformations in the mesh. I also added a small perlin noise displacement to the box to add some irregularities to the normals. 
 
 {{<figure src="/images/projects/cardboardBox/CartonBoxHighResWireframe.png" align=left height=600 title="The wireframes of the detailed model" >}}
 

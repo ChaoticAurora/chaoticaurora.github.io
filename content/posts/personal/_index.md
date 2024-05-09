@@ -7,5 +7,5 @@ cover:
 summary: Some smaller personal projects i have worked on
 ---
 
-This is a list of some smaller projects that i worked on. Including 3d Renders, Models and Shaders.
+This is a list of some smaller projects that I worked on. Including 3d Renders, Models and Shaders.
 

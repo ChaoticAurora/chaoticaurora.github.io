@@ -13,12 +13,12 @@ weight: 15
 
 # Process
 
-This render was made for a small competition I have with some friends where we all have a certain timeframe to make a render with a certain theme  
+This render was made for a small competition I have with some friends. We all have a certain timeframe to make a render with a certain theme.  
 > This render has the theme: **Magic**  
   
 > I had **1 week** to finish this render.
 
-First I searched for some refrences.  
+First I searched for some references.  
 Then I modeled a simple cauldron.  
 After which I spent a while perfecting the shader.  
 Lastly I animated the entire thing.

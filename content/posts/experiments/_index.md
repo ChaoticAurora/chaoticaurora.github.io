@@ -7,5 +7,5 @@ cover:
 summary: Some small experimental works i made.
 ---
 
-This is a list of some big projects that i worked on. Including Games, Electronics and Websites.
+This is a list of some big projects that I worked on. Including Games, Electronics and Websites.
 

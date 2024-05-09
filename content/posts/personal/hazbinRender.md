@@ -13,7 +13,7 @@ weight: 20
 
 # Process
 
-This render was made for a small competition I have with some friends where we all have a certain timeframe to make a render with a certain theme  
+This render was made for a small competition I have with some friends. We all have a certain timeframe to make a render with a certain theme.  
 > This render has the theme: **Galaxy**  
   
 > I had **2 weeks** to finish this render.

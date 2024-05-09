@@ -10,12 +10,12 @@ ShowToc: true
 TocOpen: true
 ---
 
-These renders where made for a Dungeons and Dragons campaign I wrote. I spend around 1-2 days per Render.
+These renders where made for a Dungeons and Dragons campaign I wrote. I spent around 1-2 days per Render.
 
 ---
 ## Render 1 -Blackwood Manor-
 
-This render was made of the mysterious Blackwood manor. I first quickly modeled the trees and the house and then added lighting and fog. I made two versions of this render. One with normal lighting and one with red lighting to convey the creepy nature of the manor. I then edited the images together in GIMP and also applied a collection of filters over the image like the dramatic outline.
+This render was made of the mysterious Blackwood manor. First I quickly modeled the trees and the house and then added lighting and fog. I made two versions of this render. One with normal lighting and one with red lighting to convey the creepy nature of the manor. I then edited the images together in GIMP and also applied a collection of filters over the image like the dramatic outline.
 > {{<figure src="/images/projects/dndrenders/BlackwoodManorFINAL.png" align=left width=750 >}}
 
 ---

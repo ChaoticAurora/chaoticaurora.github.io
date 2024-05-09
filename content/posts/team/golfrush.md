@@ -13,7 +13,7 @@ weight: 1
 ---
 
 Golf Rush is a multiplayer golf game that me and a friend
-(Jack Tollenaar) are making using unity where the goal is
+(Jack Tollenaar) are making using Unity where the goal is
 to race to your ball in a golfcart and get to the hole the
 fastest. I mostly do the art and he mostly does the
 programming, we do game design together and we share

@@ -11,7 +11,7 @@ TocOpen: true
 weight: 23
 ---
 
-I have made some postprocessing effects in unity using shaders.
+I have made some postprocessing effects in Unity using shaders.
 
 
 # Outline Shader
