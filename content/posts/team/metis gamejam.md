@@ -11,4 +11,8 @@ ShowToc: true
 TocOpen: true
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
+This Game Jam was special as it is the first in person Game Jam I have done. This jam was organized by the Metis Montessori Lyceum Amsterdam. We were invited because our Computer Science teacher has communications with that school. The challenge about this Game Jam was that we only had about 8 hours to finish the game and I was the only person on our 6 people strong team that had any experience with making games. Therefore my role became somewhat of a project manager. I did also program a big part of the game and came up with the visual style. I also added a dialogue system package that I made myself.
+What was really great was that afterwards our team ranked first in the Visual Style department for our interesting 2.5D style.
+
+Checkout the game [here](https://chaoticaurora.itch.io/farmingsimulatorprototype)

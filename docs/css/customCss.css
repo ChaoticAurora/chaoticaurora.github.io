@@ -3,7 +3,7 @@
 /*Home profile info*/
 .HomeProfileIcon-container{
     border-radius: var(--radius);
-    width: 25%;
+    height: 10%;
     box-shadow: 0px 0px 8px var(--primary);
     margin-left: var(--gap);
     overflow: hidden;

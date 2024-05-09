@@ -5,20 +5,31 @@ categories: ["Personal Projects"]
 cover:
     image: "images/personal/dndRenders.png"
     alt: "A collection of renders used for D&D"
-summary: A collection of renders I made in blender to support a D&D campaign i wrote.
+summary: A collection of renders I made in blender to support a D&D campaign I wrote.
 ShowToc: true
 TocOpen: true
 ---
 
-## Render 1
+These renders where made for a Dungeons and Dragons campaign I wrote. I spend around 1-2 days per Render.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
+## Render 1 -Blackwood Manor-
 
-## Render 2
+This render was made of the mysterious Blackwood manor. I first quickly modeled the trees and the house and then added lighting and fog. I made two versions of this render. One with normal lighting and one with red lighting to convey the creepy nature of the manor. I then edited the images together in GIMP and also applied a collection of filters over the image like the dramatic outline.
+> {{<figure src="/images/projects/dndrenders/BlackwoodManorFINAL.png" align=left width=750 >}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+---
+## Render 2 -Campsite-
 
-## Render 3
+This render shows an abandoned campsite that was abandoned not so long ago since the fire is still burning. Beside the campfire there is a small mysteriously glowing stone. This image was also edited in GIMP after rendering it. I added the same outline as well as a dramatic streaky glow to the mysterious stone.
+> {{<figure src="/images/projects/dndrenders/CampsiteFINAL.png" align=left width=750 >}}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+---
+## Render 3 -The Gateway-
+
+This render shows a laboratorium where a portal to another universe is located. The lighting is made sterile to convey the feeling of an emotionless space.
+> {{<figure src="/images/projects/dndrenders/PortalInLabFINAL.png" align=left width=750 >}}
+
+
+---

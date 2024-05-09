@@ -8,11 +8,15 @@
   </url><url>
     <loc>/posts/personal/cardboardbox/</loc>
   </url><url>
-    <loc>/posts/experiments/postprocess/</loc>
-  </url><url>
     <loc>/posts/personal/cauldronrender/</loc>
   </url><url>
+    <loc>/posts/personal/pridefrog/</loc>
+  </url><url>
+    <loc>/posts/personal/hazbinrender/</loc>
+  </url><url>
     <loc>/posts/experiments/wigglypath/</loc>
+  </url><url>
+    <loc>/posts/experiments/postprocess/</loc>
   </url><url>
     <loc>/categories/</loc>
   </url><url>
@@ -38,16 +42,8 @@
   </url><url>
     <loc>/posts/</loc>
   </url><url>
-    <loc>/posts/team/pyrofism/</loc>
-  </url><url>
-    <loc>/posts/experiments/raymarching/</loc>
-  </url><url>
-    <loc>/posts/personal/vendingmachinerender/</loc>
-  </url><url>
     <loc>/tags/</loc>
   </url><url>
     <loc>/categories/team-projects/</loc>
-  </url><url>
-    <loc>/posts/experiments/toonshading/</loc>
   </url>
 </urlset>

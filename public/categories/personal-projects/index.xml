@@ -25,21 +25,30 @@
     </item>
     
     <item>
+      <title>Pride Frog Render</title>
+      <link>/posts/personal/pridefrog/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/personal/pridefrog/</guid>
+      <description>A galaxy of the Hazbin Hotel universe I made with the theme: Galaxy.</description>
+    </item>
+    
+    <item>
+      <title>Hazbin Galaxy Render</title>
+      <link>/posts/personal/hazbinrender/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/personal/hazbinrender/</guid>
+      <description>A galaxy of the Hazbin Hotel universe I made with the theme: Galaxy.</description>
+    </item>
+    
+    <item>
       <title>D&amp;D Renders</title>
       <link>/posts/personal/dndrenders/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/posts/personal/dndrenders/</guid>
-      <description>A collection of renders I made in blender to support a D&amp;amp;D campaign i wrote.</description>
-    </item>
-    
-    <item>
-      <title>Stylized Vendingmachine</title>
-      <link>/posts/personal/vendingmachinerender/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/personal/vendingmachinerender/</guid>
-      <description>A stylized vending machine I made using blender&amp;rsquo;s grease pencil</description>
+      <description>A collection of renders I made in blender to support a D&amp;amp;D campaign I wrote.</description>
     </item>
     
   </channel>

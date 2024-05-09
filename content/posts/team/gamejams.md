@@ -9,4 +9,9 @@ summary: A collection of games I made for various game jams. Mostly 2d but some 
 weight: 0
 ---
 
-Game jam game jam hoogachakka
+---
+
+I have participated in a lot of GameJams over the years. You can find a collection of all the GameJam Games I have made over on my [itch page](https://chaoticaurora.itch.io)
+
+
+Checkout the special Game Jam i have done with school [here](/posts/team/metis-gamejam/)

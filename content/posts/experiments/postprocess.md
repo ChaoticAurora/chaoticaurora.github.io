@@ -8,7 +8,7 @@ cover:
 summary: A collection of some full screen shaders I made to improve the look of a game.
 ShowToc: true
 TocOpen: true
-weight: 10
+weight: 23
 ---
 
 I have made some postprocessing effects in unity using shaders.

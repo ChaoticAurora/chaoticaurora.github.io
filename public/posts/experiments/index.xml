@@ -7,39 +7,21 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="/posts/experiments/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Wiggly Path Generator</title>
+      <link>/posts/experiments/wigglypath/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/experiments/wigglypath/</guid>
+      <description>For Golf Rush I was researching different ways to point out to players where the golfball is located. One of these experiments was inspired by the way Hogwarts Legacy points you to quests. With a generated curvy line moving towards the goal. It works by inputting some points to generate a simple bezier curve and then placing knots on that simple curve that are offset randomly along the normal. Then finally all the knots are connected by one last bezier curve.</description>
+    </item>
+    
+    <item>
       <title>Post Processing Shaders</title>
       <link>/posts/experiments/postprocess/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>/posts/experiments/postprocess/</guid>
       <description>A collection of some full screen shaders I made to improve the look of a game.</description>
-    </item>
-    
-    <item>
-      <title>Wiggly Path Generator</title>
-      <link>/posts/experiments/wigglypath/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/experiments/wigglypath/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>Raymarching</title>
-      <link>/posts/experiments/raymarching/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/experiments/raymarching/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
-    </item>
-    
-    <item>
-      <title>Toon/Cell Shader</title>
-      <link>/posts/experiments/toonshading/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/experiments/toonshading/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
     
   </channel>
