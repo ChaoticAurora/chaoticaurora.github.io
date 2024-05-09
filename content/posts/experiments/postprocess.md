@@ -4,7 +4,7 @@ draft: false
 categories: ["Experiments"]
 cover:
     image: "images/experiments/postprocess.png"
-    alt: "Two post process images i created. One outline and one speedvignette effect"
+    alt: "Two post process images I created. One outline and one speedvignette effect"
 summary: A collection of some full screen shaders I made to improve the look of a game.
 ShowToc: true
 TocOpen: true

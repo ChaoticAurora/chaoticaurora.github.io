@@ -5,7 +5,7 @@ categories: ["Personal Projects"]
 cover:
     image: "images/personal/PrideThumbnail.png"
     alt: "A galaxy version of the 7 rings of hell"
-summary: "A galaxy of the Hazbin Hotel universe I made with the theme: Galaxy."
+summary: "A cute frog superhero I made with the theme: Purple Friday."
 ShowToc: true
 TocOpen: true
 weight: 18

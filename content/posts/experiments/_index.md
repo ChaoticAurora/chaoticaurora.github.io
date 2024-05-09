@@ -2,10 +2,9 @@
 title: "Experiments"
 draft: false
 cover:
-    image: "images/projects/golfrush.png"
+    image: "images/projects/wigglypath/TerrainPathGenerated.png"
     alt: "A gameplay image of Golf Rush"
-summary: Some small experimental works i made.
+summary: Some small experimental works I made.
 ---
 
-This is a list of some big projects that I worked on. Including Games, Electronics and Websites.
 

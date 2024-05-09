@@ -4,7 +4,7 @@ draft: false
 cover:
     image: "images/projects/golfrush.png"
     alt: "A gameplay image of Golf Rush"
-summary: Some projects i worked on with a team
+summary: Some projects I worked on with a team.
 weight: -1
 ---
 

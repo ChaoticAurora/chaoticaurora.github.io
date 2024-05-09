@@ -9,9 +9,9 @@ params:
 
   homeInfoParams: 
     Title: "Boris' Portfolio"
-    Content: "Welcome to my portfolio! Here I have posted a part of my gamedev journey. 
-    I have worked on various projects that are all listed below. I personally realy like doing Tech Art and VFX.  \
-    
+    Content: "Welcome to my portfolio! Here I have posted highlights of my gamedev journey.  \
+    I have worked on various projects that are all listed below. I personally really like doing Tech Art and VFX.  \
+
     Please also check out my various social platforms below like 
     [Github](https://github.com/ChaoticAurora), [Instagram](https://www.instagram.com/chaoticaurora/) and [Itch.io](https://chaoticaurora.itch.io)"
     AboutMeName: "About me"

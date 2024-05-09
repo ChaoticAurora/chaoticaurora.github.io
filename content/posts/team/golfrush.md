@@ -8,7 +8,7 @@ tags:
 cover:
     image: "images/projects/golfrush/golfrush.png"
     alt: "A gameplay image of Golf Rush"
-summary: A golf game i made with my friend. I mostly focused on art but I have also done some programming & design.
+summary: A golf game I made with my friend. I mostly focused on art, but I have also done some programming & design.
 weight: 1
 ---
 

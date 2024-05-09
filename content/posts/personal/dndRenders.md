@@ -5,7 +5,7 @@ categories: ["Personal Projects"]
 cover:
     image: "images/personal/dndRenders.png"
     alt: "A collection of renders used for D&D"
-summary: A collection of renders I made in blender to support a D&D campaign I wrote.
+summary: A collection of renders I made in Blender to support a D&D campaign I wrote.
 ShowToc: true
 TocOpen: true
 ---
