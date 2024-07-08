@@ -10,7 +10,8 @@ params:
   homeInfoParams: 
     Title: "Boris' Portfolio"
     Content: "Welcome to my portfolio! Here I have posted highlights of my gamedev journey.  \
-    I have worked on various projects that are all listed below. I personally really like doing Tech Art and VFX.  \
+    I have worked on various projects that are all listed below. I personally really like doing **Tech Art** and **VFX** (Like particles and explosions).  \
+    I have experience with using **Unity** and **Blender**. I can also program in **C#**, **Python** and the web languages (**Html**, **Css**, **Js**).\n
 
     Please also check out my various social platforms below like 
     [Github](https://github.com/ChaoticAurora), [Instagram](https://www.instagram.com/chaoticaurora/) and [Itch.io](https://chaoticaurora.itch.io)"
